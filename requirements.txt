@@ -1,0 +1,5 @@
+tkinterdnd2 
+fastapi>=0.104.1
+python-multipart>=0.0.6
+uvicorn>=0.24.0
+aiofiles>=23.2.1 
